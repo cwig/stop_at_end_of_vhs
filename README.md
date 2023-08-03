@@ -6,8 +6,8 @@ I've only tested it on my JVC SR-VS30 VCR. It has a dedicated "playing" light on
 
 In the demo video below the tape plays for 30 seconds before reaching the end of the tape and automatically stopping.
 
-<video src="imgs/sample_video.mp4" controls="controls" style="max-width: 730px;">
-</video>
+
+https://github.com/cwig/stop_at_end_of_vhs/assets/7478036/a3d9456a-c31d-421a-968d-d0f109133df7
 
 ## Part list
 - ESP32-S2 (https://www.adafruit.com/product/5325 ESP32-S3 or other microcontrollers could work as well)
